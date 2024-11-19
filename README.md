@@ -34,7 +34,7 @@ KinFace/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/KinFace.git
+git clone https://github.com/Seyoung-C/KinFace.git
 cd KinFace
 ```
 2. Install Dependencies
